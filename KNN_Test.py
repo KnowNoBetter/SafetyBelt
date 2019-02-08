@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 ''' KNN '''
-data = pd.read_csv('HJH_Dataset/dataSet.csv')
-X = data[['AngleX', 'AccX', 'AccY', 'AccZ']]
-y = data['Target']
+data = pd.read_csv('HJdataSet/dataset/dataSet02.csv')
+X = data[['gx', 'gy', 'gz', 'ax', 'ay', 'az']]
+y = data['target']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=7)
 print(X_train.shape)
 print(X_test.shape)

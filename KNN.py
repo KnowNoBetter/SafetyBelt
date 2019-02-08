@@ -74,7 +74,7 @@ while True:
     jsonDumps = json.dumps(jsonData)
     print(jsonData)
 
-    ma_conn.send(jsonDumps.encode('utf-8'))  # 씨샵 보내기
+    ma_conn.send(jsonDumps.encode('utf-8'))
     rb_conn.send(strData.encode('utf-8'))
     ma_conn.recv(1024).decode('utf-8')
 
