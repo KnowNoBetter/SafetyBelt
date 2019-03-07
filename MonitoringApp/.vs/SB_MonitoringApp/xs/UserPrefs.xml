@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4E086E25-C3F7-4851-9327-74F453E9E2ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SB_MonitoringApp/Form1.Designer.cs">
+    <Files>
+      <File FileName="SB_MonitoringApp/Form1.cs" Line="255" Column="1" />
+      <File FileName="SB_MonitoringApp/Form1.Designer.cs" Line="84" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SB_MonitoringApp" expanded="True">
+            <Node name="SB_MonitoringApp" expanded="True">
+              <Node name="Form1.cs" expanded="True">
+                <Node name="Form1.Designer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SB__MonitoringApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
